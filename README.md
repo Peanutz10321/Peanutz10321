@@ -12,6 +12,8 @@ My main interests include:
 * Full-stack development with React
 * Testing, CI/CD, and practical system integration
 
+1st Runner-Up — Certis Challenge Track, National AI Student Challenge 2026
+
 ## Featured Projects
 
 ### Security Response Advisor
@@ -67,12 +69,12 @@ A role-based full-stack fundraising platform with authentication, fundraising ac
 
 ## Technical Skills
 
-**Languages:** Python, JavaScript, SQL
-**Backend:** FastAPI, REST APIs, SQLAlchemy
-**Frontend:** React, Vite
-**AI and Machine Learning:** PyTorch, YOLOv8, ONNX, computer vision, LLM API integration
-**Security:** JWT authentication, role-based access control, password hashing, homomorphic encryption fundamentals
-**Tools:** Git, GitHub Actions, Pytest, PostgreSQL, Supabase, VS Code
+- **Languages:** Python, JavaScript, SQL
+- **Backend:** FastAPI, REST APIs, SQLAlchemy
+- **Frontend:** React, Vite
+- **AI and Machine Learning:** PyTorch, YOLOv8, ONNX, computer vision, LLM API integration
+- **Security:** JWT authentication, role-based access control, password hashing, homomorphic encryption fundamentals
+- **Tools:** Git, GitHub Actions, Pytest, PostgreSQL, Supabase, VS Code
 
 ## Current Focus
 
