@@ -35,6 +35,29 @@ The system combines CCTV analysis, incident detection, AI-generated response rec
 
 ---
 
+### FitOS — AI-Assisted Sizing Intelligence
+
+A team project developed for the AMD Developer Hackathon ACT II that helps e-commerce shoppers choose clothing sizes while giving sellers visibility into fit-related return risks.
+
+FitOS combines a deterministic sizing engine with review mining, size-chart parsing, shopper-facing explanations, and seller analytics. The final size recommendation remains rule-based and explainable, while Gemma supports language-heavy tasks.
+
+**My contributions:**
+
+* Integrated the shared recommendation engine into the FastAPI backend and aligned the API response with the documented frontend/backend contract
+* Built the seller dashboard and product risk drill-down, including complaint visualizations, review evidence, fit distribution, and size-chart completeness
+* Connected frontend seller views to the live backend APIs and added fallback behavior for reliable demonstrations
+* Added and improved CI workflows covering backend tests, API smoke checks, frontend validation, and Docker builds
+* Improved Docker Compose and deployment configuration so the full stack could run consistently across local and hosted environments
+* Fixed deployment and integration issues, including Vercel routing, frontend/backend data mismatches, and Gemma-compatible API request handling
+* Contributed technical documentation, submission links, screenshots, and final hackathon delivery improvements
+
+**Technologies:** Python, FastAPI, React, Pytest, GitHub Actions, Docker, Vercel, AMD ROCm, vLLM, Gemma
+
+[View repository](https://github.com/N1ando/fitOS) ·
+[Live demo](https://fit-os-red.vercel.app)
+
+---
+
 ### Homomorphic Encryption E-Voting System
 
 A full-stack educational prototype demonstrating encrypted ballot submission and homomorphic vote tallying using the Paillier cryptosystem.
@@ -57,15 +80,6 @@ The trained models were exported to ONNX and integrated into a browser-based inf
 
 [View repository](https://github.com/Peanutz10321/Dog-Breed-Recognition)
 
----
-
-### Fundraising Platform
-
-A role-based full-stack fundraising platform with authentication, fundraising activity management, user administration, reports, automated tests, and CI.
-
-**Technologies:** Python, FastAPI, React, SQLAlchemy, PostgreSQL, JWT, Pytest, GitHub Actions
-
-[View repository](https://github.com/Peanutz10321/CSIT-314-Fundraising-Project)
 
 ## Technical Skills
 
