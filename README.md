@@ -2,7 +2,7 @@
 
 Software Engineer focused on AI-powered and security-focused systems.
 
-I'm a Computer Science student in Singapore, focused on building reliable software systems that combine **backend engineering, applied AI, and cybersecurity**.
+I'm a Computer Science student in Singapore, graduating in 2026 and seeking graduate software engineering and applied AI opportunities. I focus on building reliable systems that combine **backend engineering, applied AI, and cybersecurity**.
 
 My main interests include:
 
