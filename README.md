@@ -88,7 +88,7 @@ The trained models were exported to ONNX and integrated into a browser-based inf
 - **Frontend:** React, Vite
 - **AI and Machine Learning:** PyTorch, YOLOv8, ONNX, computer vision, LLM API integration
 - **Security:** JWT authentication, role-based access control, password hashing, homomorphic encryption fundamentals
-- **Tools:** Git, GitHub Actions, Pytest, PostgreSQL, Supabase, VS Code
+- **Tools:** Git, GitHub Actions, Pytest, PostgreSQL, Supabase
 
 ## Current Focus
 
