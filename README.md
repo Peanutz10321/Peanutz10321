@@ -68,19 +68,6 @@ The platform includes voter, organizer, and administrator roles, JWT authenticat
 
 [View repository](https://github.com/Peanutz10321/CSIT-321-FYP-26-S2-13)
 
----
-
-### Dog Breed Recognition
-
-An applied computer vision project comparing a custom CNN, EfficientNetB0, and Vision Transformer for classification across 120 dog breeds.
-
-The trained models were exported to ONNX and integrated into a browser-based inference application using ONNX Runtime Web.
-
-**Technologies:** Python, PyTorch, EfficientNet, Vision Transformer, ONNX, JavaScript
-
-[View repository](https://github.com/Peanutz10321/Dog-Breed-Recognition)
-
-
 ## Technical Skills
 
 - **Languages:** Python, JavaScript, SQL
